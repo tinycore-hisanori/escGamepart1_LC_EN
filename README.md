@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://tinycore-hisanori.github.io/escgamepart1_lc_en/](https://tinycore-hisanori.github.io/escgamepart1_lc_en/)
+> Open this page at [https://tinycore-hisanori.github.io/escgamepart1_LC_EN/](https://tinycore-hisanori.github.io/escgamepart1_lc_en/)
 
 ## Use as Extension
 
